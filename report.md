@@ -13,7 +13,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [Тест-кейс](https://docs.google.com/spreadsheets/d/1Xe33BMiizjCPeEg2VqM2WEif04rawGqXDjOoTij4dA4/edit?usp=sharing)
+* [Тест-кейс №1](https://docs.google.com/spreadsheets/d/1Xe33BMiizjCPeEg2VqM2WEif04rawGqXDjOoTij4dA4/edit?usp=sharing)
 
 В качестве тестовых данных использовались данные [Credit Card Number Generator & Validator](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * 4485597934038275 - Visa
